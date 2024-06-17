@@ -1,2 +1,2 @@
 # SQL
-Ce parcours est fait pour apprendre le syntaxe de SQL, grâce à la maitrise des requêtes. 
+Ce parcours est conçu pour apprendre la syntaxe de SQL, grâce à la maîtrise des requêtes.
